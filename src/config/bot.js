@@ -63,9 +63,9 @@ export const botConfig = {
 
     // Embed colors by application status.
     statusColors: {
-      pending: "#FFA500",
-      approved: "#00FF00",
-      denied: "#FF0000",
+      pending: "#cee5f2",
+      approved: "#cee5f20",
+      denied: "#cee5f2",
     },
 
     // How long users must wait before submitting another application (hours).
