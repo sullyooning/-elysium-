@@ -93,12 +93,12 @@ export const botConfig = {
 
       // Standard status colors for success/error/warning/info messages.
       success: "#ccebfc", 
-      error: "#ED4245", 
-      warning: "#FEE75C", 
-      info: "#3498DB", 
+      error: "#cee5f2", 
+      warning: "#cee5f2", 
+      info: "#cee5f2", 
 
       // Neutral utility colors.
-      light: "#FFFFFF",
+      light: "#cee5f2",
       dark: "#202225",
       gray: "#99AAB5",
 
@@ -112,26 +112,26 @@ export const botConfig = {
 
       // Feature-specific colors.
       giveaway: {
-        active: "#57F287",
-        ended: "#ED4245",
+        active: "#cee5f2",
+        ended: "#cee5f2",
       },
       ticket: {
-        open: "#57F287",
-        claimed: "#FAA61A",
-        closed: "#ED4245",
-        pending: "#99AAB5",
+        open: "#cee5f2",
+        claimed: "#cee5f2",
+        closed: "#cee5f2",
+        pending: "#cee5f2",
       },
-      economy: "#F1C40F",
-      birthday: "#E91E63",
-      moderation: "#9B59B6",
+      economy: "#cee5f2",
+      birthday: "#cee5f2",
+      moderation: "#cee5f2",
 
       // Ticket priority color mapping.
       priority: {
-        none: "#95A5A6",
-        low: "#3498db",
-        medium: "#2ecc71",
-        high: "#f1c40f",
-        urgent: "#e74c3c",
+        none: "#cee5f2",
+        low: "#cee5f2",
+        medium: "#cee5f2",
+        high: "#cee5f2",
+        urgent: "#cee5f2",
       },
     },
     footer: {
